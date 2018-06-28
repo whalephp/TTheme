@@ -1,14 +1,14 @@
 <?php
 namespace whalephp;
 
-class TBuilder
+class TTheme
 {
 	public function __construct(){
 		
 	}
 	
 	public static test(){
-		echo 'test';
+		echo 'test ttheme';
 	}
 	
 }
